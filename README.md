@@ -23,8 +23,11 @@ termos.
 Usuarios
 
 Estudiantes
+
 Personal administrativo
+
 Profesores
+
 
 Desarrolladores: 
 Saulo Isai Sánchez Sánchez, David Enrique Coba Ku, , Rubén Hisraim León Martínez y Yair Alexander Falcon Kuyoc
